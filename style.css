@@ -17,7 +17,7 @@ html, body{
 
 /*header*/
 
-.header{
+header{
     background: #1FBD8A;
 }
 
@@ -48,11 +48,11 @@ html, body{
     text-decoration: none;
     margin-right:45px ;
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 18px;
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
 }
 
 .tegs a:hover{
@@ -68,19 +68,19 @@ color: #FFFFFF;
 .keys{
     cursor: pointer;
     background: #F4FBF9;
-border-radius: 50px;
-height: 36px;
-width: 156px;
-align-items: center;
-justify-content: center;
-display: flex;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 16px;
-text-align: center;
-color: #24475B;
+    border-radius: 50px;
+    height: 36px;
+    width: 156px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: #24475B;
 }
 
 .burger{
@@ -101,12 +101,12 @@ color: #24475B;
 }
 
 
-/*intro*/
+/*main*/
 
-.intro{
+main{
     -webkit-box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
--moz-box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
-box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
     background-color: #1FBD8A;
     width: 100%;
 }
@@ -130,32 +130,32 @@ box-shadow: 4px -34px 30px -14px rgba(34, 60, 80, 0.2);
     height: 33px;
     width: 200px;
     background: rgba(255, 255, 255, 0.25);
-border-radius: 33px;
+    border-radius: 33px;
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 15px;
-color: #FFFFFF;
-text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-align: center;
 }
 
 .intro-text> h1{
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 60px;
-line-height: 80px;
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFFFFF;
 }
 
 .intro-text>p{
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 26px;
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
 }
 
 .intro-button{
@@ -166,32 +166,32 @@ color: #FFFFFF;
     height: 50px;
     width: 262px;
     margin-right: 12px;
-border-radius: 50px;
+    border-radius: 50px;
 }
 
 .intro-button>.start{
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 16px;
-text-align: center;
-color: #013A51;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: #013A51;
     background-color: #FFFFFF;
     border: none;
 }
 
 .intro-button>.talk{
     background: #192F44;
-border-radius: 50px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 16px;
-text-align: center;
-color: #FFFFFF;
-border: none;
+    border-radius: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
 }
 
 .intro-bottom{
